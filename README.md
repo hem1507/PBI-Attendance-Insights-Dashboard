@@ -6,15 +6,14 @@ This dashboard helps Atliq HR Manager get a holistic view of key human resources
 
 ### Tech Portfolio
 - Power BI Desktop & Power BI Service
-- MySQL
+- MS Excel
 - DAX
 - M-Language
 - DAX Studio (for dashboard optimization)
 
 ### Power BI techniques:
-- 🔗 **Load & Connect:** Access data from diverse sources (MySQL, Excel, Azure Folder).
+- 🔗 **Load & Connect:** Access data from MS Excel file provided.
 - **𝄜 Table Operations:** Create new tables, add calculated columns, merge, and append tables in Power Query.
-- 🛠️ **Data Modeling:** Implement Star & Snowflake schema techniques.
 - 📈 **DAX Utilization:** Leverage DAX for calculated columns, measures, and table creation.
 - 📊 **Visual Storytelling:** Utilize various Power BI visuals to convey data insights effectively.
 - 🎨 **Conditional Formatting:** Enhance visual appeal with conditional formatting.
